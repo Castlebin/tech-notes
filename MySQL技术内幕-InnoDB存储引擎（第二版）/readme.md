@@ -8,3 +8,7 @@
 
 
 
+todo
+
+- 2.6   InnoDB 的关键特性 中 的 **Double Write** （二次写 ） 技术
+- 
