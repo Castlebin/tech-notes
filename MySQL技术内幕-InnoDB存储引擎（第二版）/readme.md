@@ -17,3 +17,14 @@ todo
 
 - 第 4 章 表    （有点复杂，没怎么看）
 
+
+
+
+
+- 5.4.4 B+树索引的管理中
+
+  **fast index creation**
+
+  Online DDL  
+
+- 
