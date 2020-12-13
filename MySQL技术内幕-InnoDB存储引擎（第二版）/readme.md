@@ -4,7 +4,13 @@
 
 
 
+MySQL 几点最重要的知识：
 
+- 日志技术 （binlog、redo log、undo log）
+- 锁
+- 索引
+- 事务
+- 多级缓存结构
 
 
 
